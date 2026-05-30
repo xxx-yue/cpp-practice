@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{912327A0-6548-434B-B95B-007EBDC16EDF}|2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61.vcxproj|E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{912327A0-6548-434B-B95B-007EBDC16EDF}|2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61.vcxproj|solutionrelative:2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912327A0-6548-434B-B95B-007EBDC16EDF}|2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61.vcxproj|E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{912327A0-6548-434B-B95B-007EBDC16EDF}|2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61.vcxproj|solutionrelative:2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912327A0-6548-434B-B95B-007EBDC16EDF}|2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61.vcxproj|E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{912327A0-6548-434B-B95B-007EBDC16EDF}|2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61.vcxproj|solutionrelative:2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "RelativeDocumentMoniker": "2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "ToolTip": "E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "RelativeToolTip": "2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAYwMoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T00:21:43.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.cpp",
+              "RelativeDocumentMoniker": "2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.cpp",
+              "ToolTip": "E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.cpp",
+              "RelativeToolTip": "2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-23T11:44:35.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Date.h",
+              "DocumentMoniker": "E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.h",
+              "RelativeDocumentMoniker": "2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.h",
+              "ToolTip": "E:\\c\u8BED\u8A00\u9879\u76EE\u5B58\u653E\u4F4D\u7F6E\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.h",
+              "RelativeToolTip": "2026-3-23 c\u002B\u002B\u7C7B\u548C\u5BF9\u8C61\\Date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-23T11:44:19.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
