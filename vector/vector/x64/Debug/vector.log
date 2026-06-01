@@ -1,0 +1,50 @@
+﻿  vector.cpp
+E:\c语言项目存放位置\vector\vector\vector.h(170,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“vector.cpp”)
+      E:\c语言项目存放位置\vector\vector\vector.h(170,30):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\c语言项目存放位置\vector\vector\vector.cpp(85,21):
+          查看对正在编译的 类 模板 实例化“bit::vector<double>”的引用
+          E:\c语言项目存放位置\vector\vector\vector.h(155,12):
+          在编译 类 模板 成员函数“double *bit::vector<double>::insert(double *,const T &)”时
+          with
+          [
+              T=double
+          ]
+              E:\c语言项目存放位置\vector\vector\vector.cpp(96,5):
+              请参阅 "_test_vector2" 中对 "bit::vector<double>::insert" 的第一个引用
+  
+E:\c语言项目存放位置\vector\vector\vector.h(145,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“vector.cpp”)
+      E:\c语言项目存放位置\vector\vector\vector.h(145,29):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\c语言项目存放位置\vector\vector\vector.h(141,8):
+          在编译 类 模板 成员函数“void bit::vector<double>::push_back(const T &)”时
+          with
+          [
+              T=double
+          ]
+              E:\c语言项目存放位置\vector\vector\vector.cpp(86,13):
+              请参阅 "_test_vector2" 中对 "bit::vector<double>::push_back" 的第一个引用
+  
+E:\c语言项目存放位置\vector\vector\vector.h(16,18): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“vector.cpp”)
+      E:\c语言项目存放位置\vector\vector\vector.h(16,18):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\c语言项目存放位置\vector\vector\vector.h(14,3):
+          在编译 类 模板 成员函数“bit::vector<int>::vector(const bit::vector<int> &)”时
+              E:\c语言项目存放位置\vector\vector\vector.cpp(149,20):
+              请参阅 "test_vector5" 中对 "bit::vector<int>::vector" 的第一个引用
+  
+E:\c语言项目存放位置\vector\vector\vector.h(116,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“vector.cpp”)
+      E:\c语言项目存放位置\vector\vector\vector.h(116,18):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\c语言项目存放位置\vector\vector\vector.h(112,8):
+          在编译 类 模板 成员函数“void bit::vector<double>::reserve(int)”时
+              E:\c语言项目存放位置\vector\vector\vector.h(170,13):
+              请参阅 "bit::vector<double>::insert" 中对 "bit::vector<double>::reserve" 的第一个引用
+              E:\c语言项目存放位置\vector\vector\vector.cpp(96,5):
+              请参阅 "_test_vector2" 中对 "bit::vector<double>::insert" 的第一个引用
+  
+  vector.vcxproj -> E:\c语言项目存放位置\vector\x64\Debug\vector.exe
