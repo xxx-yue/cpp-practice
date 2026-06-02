@@ -1,0 +1,20 @@
+﻿  test.c
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(21,36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(27,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(264,17): warning C4047: “函数”:“QDataType”与“BTNode *”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(264,17): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(271,23): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(271,23): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(273,23): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(273,23): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(267,11): warning C4047: “初始化”:“BTNode *”与“QDataType”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(283,17): warning C4047: “函数”:“QDataType”与“BTNode *”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(283,17): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(290,22): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(290,22): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(291,22): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(291,22): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(286,11): warning C4047: “初始化”:“BTNode *”与“QDataType”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(295,11): warning C4047: “初始化”:“BTNode *”与“QDataType”的间接级别不同
+E:\c语言项目存放位置\堆和二叉树1\堆和二叉树1\test.c(248,1): warning C4715: “TreeFind”: 不是所有的控件路径都返回值
+  堆和二叉树1.vcxproj -> E:\c语言项目存放位置\堆和二叉树1\x64\Debug\堆和二叉树1.exe
