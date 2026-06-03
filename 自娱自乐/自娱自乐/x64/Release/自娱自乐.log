@@ -1,0 +1,11 @@
+﻿  自娱自乐.c
+E:\c语言项目存放位置\自娱自乐\自娱自乐\自娱自乐.c(108,51): warning C4474: printf: 格式字符串中传递的参数太多
+      E:\c语言项目存放位置\自娱自乐\自娱自乐\自娱自乐.c(108,51):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+  正在生成代码
+  0 of 8 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  自娱自乐.vcxproj -> E:\c语言项目存放位置\自娱自乐\x64\Release\自娱自乐.exe
